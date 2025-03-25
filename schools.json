@@ -1,0 +1,945 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-121.5296853, 38.6454573]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Sacramento)",
+                "address": "4100 Duckhorn Dr, Sacramento, CA",
+                "zipCode": "95834",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2Flocations_california_sacramento2_0012_exterior.webp&w=1536&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-117.5762906, 34.0824549]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Rancho Cucamonga)",
+                "address": "9494 Haven Ave, Rancho Cucamonga, CA",
+                "zipCode": "91730",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2F4x3_rancho_weld1-1800px.webp&w=1536&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-80.8550605, 35.6053426]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Mooresville)",
+                "address": "220 Byers Creek Rd, Mooresville, NC",
+                "zipCode": "28117",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2Flocations_northcarolina_mooresville_0027_frontenterance1.webp&w=1536&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-80.3364542, 25.9909099]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Miramar)",
+                "address": "2001 SW 145th Ave, Miramar, FL",
+                "zipCode": "33027",
+                "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPlAr-18HO4oNb2idzwSTF4NngRxV-bjJDH__n1=s680-w680-h510",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-118.1454187, 33.825974]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Long Beach)",
+                "address": "4175 E Conant St, Long Beach, CA",
+                "zipCode": "90808",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2Flocations_california_longbeach_0005_interior-front.webp&w=1280&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-88.1039818, 41.8070172]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Lisle)",
+                "address": "2611 Corporate W Dr, Lisle, IL",
+                "zipCode": "60532",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2Flisle_wind.webp&w=1536&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.4121181, 29.9904135]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Houston)",
+                "address": "721 Lockhaven Dr, Houston, TX 77073",
+                "zipCode": "77073",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2Flocations_texas_houston_0024_lounge.webp&w=1536&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-75.6860798, 40.0708885]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Exton)",
+                "address": "750 Pennsylvania Dr, Exton, PA",
+                "zipCode": "19341",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2FExton-Robotics3.webp&w=1536&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.0128027, 32.9380547]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Dallas)",
+                "address": "5151 Regent Blvd, Irving, TX",
+                "zipCode": "75063",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2Flocations_dfw_gallery2.webp&w=1536&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1811231, 40.8413173]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Bloomfield)",
+                "address": "1515 Broad St, Bloomfield, NJ 07003",
+                "zipCode": "07003",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2Futi-bloomfield_14.webp&w=1536&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-112.2877665, 33.4528335]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Avondale)",
+                "address": "10695 W Pierce St, Avondale, AZ",
+                "zipCode": "85323",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2Futi-bloomfield_14.webp&w=1536&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.660837, 30.416465]
+            },
+            "properties": {
+                "name": "Universal Technical Institute (Austin)",
+                "address": "301 W Howard Ln, Austin, TX",
+                "zipCode": "78753",
+                "imageUrl": "https://www.uti.edu/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Futidinary%2Fimage%2Fupload%2Fq_auto%2Cf_auto%2FAustin_WELDING2.webp&w=1536&q=75",
+                "estYear": 1965,
+                "rating": 4,
+                "courseTerm": "36 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Veteran support programs\n\n• Multiple campus locations across the U.S\n\n• Strong industry partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.4209483, 40.5510214]
+            },
+            "properties": {
+                "name": "Lincoln Tech (South Plainfield)",
+                "address": "901 Hadley Rd, South Plainfield, NJ",
+                "zipCode": "07080",
+                "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imagine-america.org%2Flincoln-tech-scholarships-in-south-plainfield-nj%2F&psig=AOvVaw3Jjbyktl8HXHun9a66Xw6_&ust=1729097220764000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDvjqDrkIkDFQAAAAAdAAAAABAE",
+                "estYear": 1946,
+                "rating": 4,
+                "courseTerm": "32 - 52 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Nationwide campus network\n\n• Partnerships with industry-leading companies\n\n• Virtual welding simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-86.7439815, 36.1943682]
+            },
+            "properties": {
+                "name": "Lincoln Tech (Nashville)",
+                "address": "1524 Gallatin Ave, Nashville, TN",
+                "zipCode": "37206",
+                "imageUrl": "https://www.lincolntech.edu/sites/default/files/styles/29_1_1600x550/public/images/nashville-campus-header.jpg?itok=G_dmLFjs",
+                "estYear": 1946,
+                "rating": 4,
+                "courseTerm": "32 - 52 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Nationwide campus network\n\n• Partnerships with industry-leading companies\n\n• Virtual welding simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-86.7439815, 39.8859311]
+            },
+            "properties": {
+                "name": "Lincoln Tech (Indianapolis)",
+                "address": "7225 Winton Dr building 128, Indianapolis, IN",
+                "zipCode": "46268",
+                "imageUrl": "https://www.lincolntech.edu/sites/default/files/styles/29_1_1600x550/public/2024-07/Indy-Campus-Header-07252024.jpg?h=04bec34f&itok=_KD3bWGs",
+                "estYear": 1946,
+                "rating": 4,
+                "courseTerm": "32 - 52 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Nationwide campus network\n\n• Partnerships with industry-leading companies\n\n• Virtual welding simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-87.8321035, 41.9056108]
+            },
+            "properties": {
+                "name": "Lincoln Tech (Melrose Park)",
+                "address": "8317 W North Ave, Melrose Park, IL",
+                "zipCode": "60160",
+                "imageUrl": "https://www.lincolntech.edu/sites/default/files/styles/29_1_1600x550/public/2024-06/lincoln-tech-melrose-campus-header_052024.jpg?h=04bec34f&itok=q0vOCRKw",
+                "estYear": 1946,
+                "rating": 4,
+                "courseTerm": "32 - 52 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Nationwide campus network\n\n• Partnerships with industry-leading companies\n\n• Virtual welding simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.0562882, 32.7020195]
+            },
+            "properties": {
+                "name": "Lincoln Tech (Grand Prairie)",
+                "address": "2915 Alouette Dr, Grand Prairie, TX 75052",
+                "zipCode": "75052",
+                "imageUrl": "https://www.lincolntech.edu/sites/default/files/styles/29_1_1600x550/public/2024-06/lincoln-tech-grand-prairie-campus-header-052024.jpg?h=04bec34f&itok=FhIkU5dU",
+                "estYear": 1946,
+                "rating": 4,
+                "courseTerm": "32 - 52 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Nationwide campus network\n\n• Partnerships with industry-leading companies\n\n• Virtual welding simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-72.5969643, 41.9240294]
+            },
+            "properties": {
+                "name": "Lincoln Tech (East Windsor)",
+                "address": "97 Newberry Rd, East Windsor, CT",
+                "zipCode": "06088",
+                "imageUrl": "https://www.lincolntech.edu/sites/default/files/styles/29_1_1600x550/public/images/lincoln-tech-ewindsor-campus-header.jpg?itok=uaJbWYCq",
+                "estYear": 1946,
+                "rating": 4,
+                "courseTerm": "32 - 52 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Nationwide campus network\n\n• Partnerships with industry-leading companies\n\n• Virtual welding simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.5136419, 33.654126]
+            },
+            "properties": {
+                "name": "Lincoln Tech (East Point)",
+                "address": "1200 Centre Pkwy, East Point, GA",
+                "zipCode": "30344",
+                "imageUrl": "https://www.lincolntech.edu/sites/default/files/styles/29_1_1600x550/public/2024-05/East-Point-Campus-Header-0524-R.jpg?h=04bec34f&itok=PnOwSeH7",
+                "estYear": 1946,
+                "rating": 4,
+                "courseTerm": "32 - 52 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Nationwide campus network\n\n• Partnerships with industry-leading companies\n\n• Virtual welding simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-104.8563838, 39.7769209]
+            },
+            "properties": {
+                "name": "Lincoln Tech (Denver)",
+                "address": "11194 E 45th Ave, Denver, CO",
+                "zipCode": "80239",
+                "imageUrl": "https://www.lincolntech.edu/sites/default/files/styles/29_1_1600x550/public/images/denver-campus-header.jpg?itok=Na57hGwq",
+                "estYear": 1946,
+                "rating": 4,
+                "courseTerm": "32 - 52 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Nationwide campus network\n\n• Partnerships with industry-leading companies\n\n• Virtual welding simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.1481, 41.0840349]
+            },
+            "properties": {
+                "name": "Lincoln Tech (Mahwah)",
+                "address": "70 McKee Dr, Mahwah, NJ",
+                "zipCode": "07430",
+                "imageUrl": "https://www.lincolntech.edu/sites/default/files/styles/29_1_1600x550/public/2024-06/Mahwah-Campus-Header_0524.jpg?h=04bec34f&itok=oiu2w-kz",
+                "estYear": 1946,
+                "rating": 4,
+                "courseTerm": "32 - 52 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Nationwide campus network\n\n• Partnerships with industry-leading companies\n\n• Virtual welding simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-76.8373727, 39.1753637]
+            },
+            "properties": {
+                "name": "Lincoln Tech (Columbia)",
+                "address": "9325 Snowden River Pkwy, Columbia, MD",
+                "zipCode": "21046",
+                "imageUrl": "https://www.lincolntech.edu/sites/default/files/styles/29_1_1600x550/public/2024-06/lincoln-tech-columbia-campus-header_052024.jpg?h=04bec34f&itok=i9zAW60b",
+                "estYear": 1946,
+                "rating": 4,
+                "courseTerm": "32 - 52 Weeks",
+                "coursePrice": "Unknown",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Nationwide campus network\n\n• Partnerships with industry-leading companies\n\n• Virtual welding simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-94.3427456, 37.8713258]
+            },
+            "properties": {
+                "name": "Missouri Welding Institute",
+                "address": "3300 Industrial Pkwy, Nevada, MO",
+                "zipCode": "64772",
+                "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmissouriweldinginstitute.com%2Faboutus%2F&psig=AOvVaw3bYjxdR_StYEwl3nflywA2&ust=1729099236023000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCfsd_ykIkDFQAAAAAdAAAAABAE",
+                "estYear": 1994,
+                "rating": 5,
+                "courseTerm": "10 - 18 Weeks",
+                "coursePrice": "$13,298 - $22,900",
+                "housing": "Yes",
+                "admissionRequirements": "No",
+                "description": "• Master Pipe Welding and Fitting Program\n\n• Lifetime job placement assistance\n\n• High End Simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-92.2010151, 35.3801698]
+            },
+            "properties": {
+                "name": "Arkansas Elite Welding Academy",
+                "address": "333 Rosebud Rd, Quitman, AR",
+                "zipCode": "72131",
+                "imageUrl": "https://static1.squarespace.com/static/6067746a266f940bd62ff94b/t/60b944c695b8976d955739db/1622754507688/69967896_920960208241156_1679323425232912384_n.jpeg?format=1500w",
+                "estYear": 2016,
+                "rating": 5,
+                "courseTerm": "14 - 19 Weeks",
+                "coursePrice": "$16,100 - $22,100",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Specialized pipe and structural welding programs\n\n• On-site testing for certifications\n\n• Small class sizes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.8201783, 38.2266249]
+            },
+            "properties": {
+                "name": "Knight School of Welding",
+                "address": "2017 S 39th St, Louisville, KY",
+                "zipCode": "40211",
+                "imageUrl": "https://le-cdn.hibuwebsites.com/5342afdea65043999993dfca26e28311/dms3rep/multi/opt/image002-900w.jpg",
+                "estYear": 2008,
+                "rating": 5,
+                "courseTerm": "4 - 5 Weeks",
+                "coursePrice": "$4,100 - $5,500",
+                "housing": "No",
+                "admissionRequirements": "Unknown",
+                "description": "• Career-oriented short-term programs\n\n• Veteran-friendly programs offering financial assistance and specialized support for veterans\n\n• Evening and weekend classes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.9829091, 40.8875272]
+            },
+            "properties": {
+                "name": "AmeriArc Welding Academy",
+                "address": "250 S Van Brunt St, Englewood, NJ",
+                "zipCode": "07631",
+                "imageUrl": "https://cdn.prod.website-files.com/66f18cc75eb2a3219e5b0bdd/66f57e0c83dd120aa48c084c_Ameriarc.jpg",
+                "estYear": "Unknown",
+                "rating": 5,
+                "courseTerm": "90 - 325 Hours",
+                "coursePrice": "$7,500 - $24,500",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Small class sizes\n\n• Job placement assistance\n\n• Flexible scheduling options"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-93.0763103, 39.7858886]
+            },
+            "properties": {
+                "name": "Grand River Welding Institute",
+                "address": "103 N Livingston St, Brookfield, MO",
+                "zipCode": "64628",
+                "imageUrl": "https://cdn.prod.website-files.com/66f18cc75eb2a3219e5b0bdd/66f65e628a242c667fd1a4c3_GRWI.png",
+                "estYear": "Unknown",
+                "rating": 5,
+                "courseTerm": "20 Weeks",
+                "coursePrice": "$26,200",
+                "housing": "Yes",
+                "admissionRequirements": "Yes",
+                "description": "• Comprehensive pipe welding focus\n\n• Small class sizes\n\n• Customizable training programs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-106.3829076, 31.7716744]
+            },
+            "properties": {
+                "name": "Sun City Welding Academy",
+                "address": "6940 Commerce Ave, El Paso, TX",
+                "zipCode": "79915",
+                "imageUrl": "https://cdn.prod.website-files.com/66f18cc75eb2a3219e5b0bdd/66f5799ee9985afcd4ff2cc3_Sun%20City.jpg",
+                "estYear": "Unknown",
+                "rating": 5,
+                "courseTerm": "4 - 24 Weeks",
+                "coursePrice": "$2,500 - $15,000",
+                "housing": "No",
+                "admissionRequirements": "No",
+                "description": "• Bilingual instruction\n\n• Flexible payment plans\n\n• Focus on structural and pipe welding"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.7437926, 38.4467582]
+            },
+            "properties": {
+                "name": "Kentucky Welding Institute",
+                "address": "1828 Maysville Rd, Flemingsburg, KY, USA",
+                "zipCode": "41041",
+                "imageUrl": "https://cdn.prod.website-files.com/66f18cc75eb2a3219e5b0bdd/66f579015bf934428670421e_KWI.jpg",
+                "estYear": 2015,
+                "rating": 5,
+                "courseTerm": "18 - 24 Weeks",
+                "coursePrice": "$15,100 - $17,500",
+                "housing": "Yes",
+                "admissionRequirements": "Yes",
+                "description": "• Small class sizes\n\n• Lifetime Brush-ups\n\n• High End Simulators"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-89.263524, 45.912627]
+            },
+            "properties": {
+                "name": "Advanced Welding Institute (Eagle River)",
+                "address": "555 Enterprise Wy, Eagle River, WI, USA",
+                "zipCode": "54521",
+                "imageUrl": "https://awi.edu/client_media/crops/default.d3550d00.awi_wi_campus.jpg",
+                "estYear": 2003,
+                "rating": 3.5,
+                "courseTerm": "15 - 24 Weeks",
+                "coursePrice": "$22,000 - $28,250",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• High welder certification success rate.\n\n• Open practice lab hours\n\n• Job placement assistance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.1394157, 44.4558681]
+            },
+            "properties": {
+                "name": "Advanced Welding Institute (South Burlington)",
+                "address": "2 Green Tree Dr unit 3, South Burlington, VT, USA",
+                "zipCode": "05403",
+                "imageUrl": "https://awi.edu/client_media/crops/default.1e3db16c.awi_vt_outside_class.jpg",
+                "estYear": 2003,
+                "rating": 3.5,
+                "courseTerm": "15 - 24 Weeks",
+                "coursePrice": "$22,000 - $28,250",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• High welder certification success rate.\n\n• Open practice lab hours\n\n• Job placement assistance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.690658, 29.8568696]
+            },
+            "properties": {
+                "name": "Precision Welding Academy",
+                "address": "18830 Gummert Rd, Katy, TX, USA",
+                "zipCode": "77449",
+                "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d59a6453dd09d0001147f03/1580069875469-00Y4KY4EMZXQ3ZN541LD/PrecisionWeldingAcademy_Front.png?format=1000w",
+                "estYear": 2019,
+                "rating": 5,
+                "courseTerm": "10 - 32 Weeks",
+                "coursePrice": "$7,520 - $25,200",
+                "housing": "Unknown",
+                "admissionRequirements": "Unknown",
+                "description": "• Specialized pipe welding program\n\n• Small class sizes\n\n• Weekend and evening classes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-90.9650209, 38.4150796]
+            },
+            "properties": {
+                "name": "American Welding Academy",
+                "address": "3 Progress Pkwy, Union, MO, USA",
+                "zipCode": "63084",
+                "imageUrl": "https://static.wixstatic.com/media/1e1f1d_ea01b18634cf446daaaf81e004ee04a8~mv2.jpg/v1/fill/w_640,h_428,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/1e1f1d_ea01b18634cf446daaaf81e004ee04a8~mv2.jpg",
+                "estYear": "Unknown",
+                "rating": 5,
+                "courseTerm": "12 - 24 Weeks",
+                "coursePrice": "$13,500 - $25,500",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Strong Job Placement\n\n• Fast Program\n\n• In-House Fabrication Projects"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.9371159, 32.8361102]
+            },
+            "properties": {
+                "name": "Tulsa Welding School (Dallas)",
+                "address": "700 E Airport Fwy, Irving, TX, USA",
+                "zipCode": "75062",
+                "imageUrl": "https://go.tws.edu/wp-content/uploads/campus-tulsa.jpg",
+                "estYear": 1949,
+                "rating": 4.5,
+                "courseTerm": "7 - 9.5 Months",
+                "coursePrice": "$17,500 - $23,056",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Multiple Campuses\n\n• 7 Month Long Program\n\n• Over 37,000 Graduates"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.4130127, 29.9507679]
+            },
+            "properties": {
+                "name": "Tulsa Welding School (Houston)",
+                "address": "243 Greens Rd a, Houston, TX, USA",
+                "zipCode": "77067",
+                "imageUrl": "https://go.tws.edu/wp-content/uploads/campus-tulsa.jpg",
+                "estYear": 1949,
+                "rating": 4.5,
+                "courseTerm": "7 - 9.5 Months",
+                "coursePrice": "$17,500 - $23,056",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Multiple Campuses\n\n• 7 Month Long Program\n\n• Over 37,000 Graduates"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.5604291, 30.2826167]
+            },
+            "properties": {
+                "name": "Tulsa Welding School (Jacksonville)",
+                "address": "3500 Southside Blvd, Jacksonville, FL, USA",
+                "zipCode": "32216",
+                "imageUrl": "https://go.tws.edu/wp-content/uploads/campus-tulsa.jpg",
+                "estYear": 1949,
+                "rating": 4.5,
+                "courseTerm": "7 - 9.5 Months",
+                "coursePrice": "$17,500 - $23,056",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Multiple Campuses\n\n• 7 Month Long Program\n\n• Over 37,000 Graduates"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.9543005, 36.1481383]
+            },
+            "properties": {
+                "name": "Tulsa Welding School (Tulsa)",
+                "address": "2545 E 11th St, Tulsa, OK, USA",
+                "zipCode": "74104",
+                "imageUrl": "https://go.tws.edu/wp-content/uploads/campus-tulsa.jpg",
+                "estYear": 1949,
+                "rating": 4.5,
+                "courseTerm": "7 - 9.5 Months",
+                "coursePrice": "$17,500 - $23,056",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Multiple Campuses\n\n• 7 Month Long Program\n\n• Over 37,000 Graduates"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.2196944, 40.0532577]
+            },
+            "properties": {
+                "name": "Hobart Institute of Welding Technology",
+                "address": "400 Trade Square E, Troy, OH, USA",
+                "zipCode": "45373",
+                "imageUrl": "https://www.welding.org/wp-content/uploads/2020/01/2017-Campus-1030x579.jpg",
+                "estYear": 1930,
+                "rating": 4.5,
+                "courseTerm": "24 - 40 Weeks",
+                "coursePrice": "$14,200 - $23,400",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• 80 Years Experience\n\n• Pathways option\n\n• Industry Partnerships"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-84.4683764, 39.3137096]
+            },
+            "properties": {
+                "name": "Elite Welding Academy (Cincinnati)",
+                "address": "4670 Dues Dr, West Chester Township, OH, USA",
+                "zipCode": "45246",
+                "imageUrl": "https://eliteweldingacademy.com/wp-content/uploads/2023/05/F3.jpg",
+                "estYear": 2006,
+                "rating": 4.5,
+                "courseTerm": "25 - 26 Weeks",
+                "coursePrice": "$9,700 - $18,900",
+                "housing": "Yes",
+                "admissionRequirements": "Yes",
+                "description": "• Small class sizes\n\n• Specialized pipe welding program\n\n• Accelerated programs - 6 Months"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.594355, 38.4472183]
+            },
+            "properties": {
+                "name": "Elite Welding Academy (South Point)",
+                "address": "1910 Co Rd 1, South Point, OH, USA",
+                "zipCode": "45680",
+                "imageUrl": "https://eliteweldingacademy.com/wp-content/uploads/2023/05/f1.jpg",
+                "estYear": 2006,
+                "rating": 4.5,
+                "courseTerm": "25 - 26 Weeks",
+                "coursePrice": "$9,700 - $18,900",
+                "housing": "Yes",
+                "admissionRequirements": "Yes",
+                "description": "• Small class sizes\n\n• Specialized pipe welding program\n\n• Accelerated programs - 6 Months"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.357565, 32.7613238]
+            },
+            "properties": {
+                "name": "Arc Labs Welding School (Dallas)",
+                "address": "2821 Cullen St, Fort Worth, TX, USA",
+                "zipCode": "76107",
+                "imageUrl": "https://www.arclabs.edu/wp-content/uploads/2024/05/locations.jpg",
+                "estYear": 2006,
+                "rating": 4.5,
+                "courseTerm": "900 - 1300 Hours",
+                "coursePrice": "$18,900 - $26,200",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Flexible scheduling options\n\n• Multiple campus locations\n\n• Lifetime career assistance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-95.4937578, 29.8786766]
+            },
+            "properties": {
+                "name": "Arc Labs Welding School (Houston)",
+                "address": "9510 N Houston Rosslyn Rd, Houston, TX, USA",
+                "zipCode": "77088",
+                "imageUrl": "https://www.arclabs.edu/wp-content/uploads/2024/05/locations.jpg",
+                "estYear": 2006,
+                "rating": 4.5,
+                "courseTerm": "900 - 1300 Hours",
+                "coursePrice": "$18,900 - $26,200",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Flexible scheduling options\n\n• Multiple campus locations\n\n• Lifetime career assistance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-80.9963383, 34.9656446]
+            },
+            "properties": {
+                "name": "Arc Labs Welding School (Rock Hill)",
+                "address": "2260 Cherry Rd, Rock Hill, SC, USA",
+                "zipCode": "29732",
+                "imageUrl": "https://www.arclabs.edu/wp-content/uploads/2024/05/4F6A0710-2048x1366-1.jpg",
+                "estYear": 2006,
+                "rating": 4.5,
+                "courseTerm": "900 - 1300 Hours",
+                "coursePrice": "$18,900 - $26,200",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Flexible scheduling options\n\n• Multiple campus locations\n\n• Lifetime career assistance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-82.4613132, 34.7707746]
+            },
+            "properties": {
+                "name": "Arc Labs Welding School (Piedmont)",
+                "address": "2615 SC-153, Piedmont, SC, USA",
+                "zipCode": "29673",
+                "imageUrl": "https://www.arclabs.edu/wp-content/uploads/2024/05/locations.jpg",
+                "estYear": 2006,
+                "rating": 4.5,
+                "courseTerm": "900 - 1300 Hours",
+                "coursePrice": "$18,900 - $26,200",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Flexible scheduling options\n\n• Multiple campus locations\n\n• Lifetime career assistance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-81.0838708, 34.0158639]
+            },
+            "properties": {
+                "name": "Arc Labs Welding School (Columbia)",
+                "address": "700 Gracern Rd, Columbia, SC, USA",
+                "zipCode": "29210",
+                "imageUrl": "https://www.arclabs.edu/wp-content/uploads/2024/05/locations.jpg",
+                "estYear": 2006,
+                "rating": 4.5,
+                "courseTerm": "900 - 1300 Hours",
+                "coursePrice": "$18,900 - $26,200",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Flexible scheduling options\n\n• Multiple campus locations\n\n• Lifetime career assistance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-80.0630852, 32.9247747]
+            },
+            "properties": {
+                "name": "Arc Labs Welding School (Charleston, SC)",
+                "address": "3185 Industry Dr, North Charleston, SC, USA",
+                "zipCode": "29418",
+                "imageUrl": "https://www.arclabs.edu/wp-content/uploads/2024/05/locations.jpg",
+                "estYear": 2006,
+                "rating": 4.5,
+                "courseTerm": "900 - 1300 Hours",
+                "coursePrice": "$18,900 - $26,200",
+                "housing": "Yes",
+                "admissionRequirements": "Unknown",
+                "description": "• Flexible scheduling options\n\n• Multiple campus locations\n\n• Lifetime career assistance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-105.5373883, 44.3155231]
+            },
+            "properties": {
+                "name": "Western Welding Academy",
+                "address": "26 Kinsey Ln, Gillette, WY USA",
+                "zipCode": "82716",
+                "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOIg8J98IhL546Yt0wyBb1CMfEA8yUyj8FijZrS=s680-w680-h510",
+                "estYear": 2019,
+                "rating": 5,
+                "courseTerm": "24 Weeks",
+                "coursePrice": "$35,800",
+                "housing": "Yes",
+                "admissionRequirements": "None",
+                "description": "• High End Simulators\n\n• Highly Qualified Instructors\n\n• Lifetime Brush-Ups"
+            }
+        }
+    ]
+}
